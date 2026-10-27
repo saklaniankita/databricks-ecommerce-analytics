@@ -54,5 +54,3 @@ INSERT INTO bronze_orders VALUES
 ('O508', 'C105', 'P01', '2024-03-12', '120.00', 'Completed'),
 ('O509', 'C103', 'P03', '2024-03-15', '85.00', 'Completed'),
 ('O510', 'C102', 'P02', '2024-03-18', '45.00', 'Cancelled');
-
-select * from bronze_orders;
